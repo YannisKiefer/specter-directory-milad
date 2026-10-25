@@ -21,6 +21,7 @@
 - [DevOps & backend](#devops--backend)
 - [Documentation](#documentation)
 - [Growth](#growth)
+- [Social platform agents](#social-platform-agents)
 - [Marketing & social media](#marketing--social-media)
 - [Ideas wanted](#ideas-wanted)
 - [Contributing](#contributing)
@@ -43,7 +44,7 @@ Step-by-step instructions, rules, and output format.
 
 ## Collections
 
-- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 31 practical skills for developers and marketers with a one-line installer.
+- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 41 practical skills for developers and marketers with a one-line installer.
 
 ## Git & workflow
 
@@ -79,6 +80,19 @@ Step-by-step instructions, rules, and output format.
 
 - [launch-post-writer](https://github.com/milad-ahmd/launch-post-writer) - X thread, Show HN, LinkedIn and Reddit launch posts from a repo.
 - [landing-page-roaster](https://github.com/milad-ahmd/landing-page-roaster) - Scored, honest roast of a landing page plus copy rewrites.
+
+## Social platform agents
+
+- [social-media-manager](https://github.com/milad-ahmd/social-media-manager) - All-in-one social media manager: picks platforms, sets KPIs, plans weekly and directs every platform skill.
+- [linkedin-growth-manager](https://github.com/milad-ahmd/linkedin-growth-manager) - LinkedIn profile rewrite, post writing, comment strategy and analytics for personal brands and company pages.
+- [x-twitter-growth-manager](https://github.com/milad-ahmd/x-twitter-growth-manager) - Grow on X/Twitter with profile, daily posts, threads, a reply strategy and analytics.
+- [facebook-page-manager](https://github.com/milad-ahmd/facebook-page-manager) - Facebook Pages and Groups: setup, posts, Reels, Messenger replies, reviews and boosting.
+- [pinterest-growth-manager](https://github.com/milad-ahmd/pinterest-growth-manager) - Pinterest SEO: keywords, boards, Pin titles and descriptions, and seasonal plans for traffic.
+- [threads-growth-manager](https://github.com/milad-ahmd/threads-growth-manager) - Grow on Meta Threads with conversation-starting posts, reply strategy and a content bank.
+- [reddit-marketing-agent](https://github.com/milad-ahmd/reddit-marketing-agent) - Authentic Reddit marketing: subreddit research and rules, value-first posts and launch posts.
+- [telegram-channel-manager](https://github.com/milad-ahmd/telegram-channel-manager) - Grow and run a Telegram channel or group: content, formatting, moderation and monetization.
+- [whatsapp-business-agent](https://github.com/milad-ahmd/whatsapp-business-agent) - WhatsApp Business for sales and support: quick replies, broadcasts, API templates and chatbot flows.
+- [google-business-profile-manager](https://github.com/milad-ahmd/google-business-profile-manager) - Rank on Google Maps: Google Business Profile optimization, posts, reviews and local SEO.
 
 ## Marketing & social media
 
