@@ -42,17 +42,20 @@ Step-by-step instructions, rules, and output format.
 
 ## Collections
 
-- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 13 practical skills with a one-line installer.
+- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 17 practical skills with a one-line installer.
 
 ## Git & workflow
 
 - [commit-craft](https://github.com/milad-ahmd/commit-craft) - Split messy changes into atomic Conventional Commits.
+- [meeting-notes-to-tickets](https://github.com/milad-ahmd/meeting-notes-to-tickets) - Meeting notes into de-duplicated GitHub, Linear or Jira tickets.
+- [migration-wizard](https://github.com/milad-ahmd/migration-wizard) - Phased, verified codebase migrations (JS→TS, Jest→Vitest, Pages→App Router).
 - [changelog-from-git](https://github.com/milad-ahmd/changelog-from-git) - Human-readable release notes from git history.
 
 ## Code review & quality
 
 - [pr-reviewer-pro](https://github.com/milad-ahmd/pr-reviewer-pro) - Senior-engineer PR reviews with severity levels, `file:line` evidence and suggested fixes.
 - [test-gap-hunter](https://github.com/milad-ahmd/test-gap-hunter) - Find the riskiest untested code and write tests in the project's framework.
+- [screenshot-to-component](https://github.com/milad-ahmd/screenshot-to-component) - Screenshot to a component built with the project design system.
 - [a11y-fixer](https://github.com/milad-ahmd/a11y-fixer) - WCAG 2.2 AA audit that fixes issues in code.
 
 ## Security & maintenance
@@ -63,6 +66,7 @@ Step-by-step instructions, rules, and output format.
 ## DevOps & backend
 
 - [dockerize-anything](https://github.com/milad-ahmd/dockerize-anything) - Production-ready multi-stage Dockerfile and compose.
+- [api-to-sdk](https://github.com/milad-ahmd/api-to-sdk) - Typed client SDK from an OpenAPI spec or backend routes.
 - [sql-optimizer](https://github.com/milad-ahmd/sql-optimizer) - Explain slow queries, read EXPLAIN plans, suggest indexes.
 
 ## Documentation
