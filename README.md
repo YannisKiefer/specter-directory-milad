@@ -14,8 +14,13 @@
 ## Contents
 
 - [Getting started](#getting-started)
+- [Collections](#collections)
+- [Git & workflow](#git--workflow)
 - [Code review & quality](#code-review--quality)
+- [Security & maintenance](#security--maintenance)
+- [DevOps & backend](#devops--backend)
 - [Documentation](#documentation)
+- [Growth](#growth)
 - [Ideas wanted](#ideas-wanted)
 - [Contributing](#contributing)
 
@@ -35,25 +40,46 @@ description: What it does and WHEN the agent should use it.
 Step-by-step instructions, rules, and output format.
 ```
 
+## Collections
+
+- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 13 practical skills with a one-line installer.
+
+## Git & workflow
+
+- [commit-craft](https://github.com/milad-ahmd/commit-craft) - Split messy changes into atomic Conventional Commits.
+- [changelog-from-git](https://github.com/milad-ahmd/changelog-from-git) - Human-readable release notes from git history.
+
 ## Code review & quality
 
 - [pr-reviewer-pro](https://github.com/milad-ahmd/pr-reviewer-pro) - Senior-engineer PR reviews with severity levels, `file:line` evidence and suggested fixes.
+- [test-gap-hunter](https://github.com/milad-ahmd/test-gap-hunter) - Find the riskiest untested code and write tests in the project's framework.
+- [a11y-fixer](https://github.com/milad-ahmd/a11y-fixer) - WCAG 2.2 AA audit that fixes issues in code.
+
+## Security & maintenance
+
+- [env-secrets-guard](https://github.com/milad-ahmd/env-secrets-guard) - Detect leaked secrets and guide safe rotation.
+- [dependency-doctor](https://github.com/milad-ahmd/dependency-doctor) - Vulnerability and outdated-package audit with a safe upgrade plan.
+
+## DevOps & backend
+
+- [dockerize-anything](https://github.com/milad-ahmd/dockerize-anything) - Production-ready multi-stage Dockerfile and compose.
+- [sql-optimizer](https://github.com/milad-ahmd/sql-optimizer) - Explain slow queries, read EXPLAIN plans, suggest indexes.
 
 ## Documentation
 
 - [readme-glow-up](https://github.com/milad-ahmd/readme-glow-up) - Rewrites READMEs into star-worthy pages using only facts found in the repo.
+- [codebase-explainer](https://github.com/milad-ahmd/codebase-explainer) - Onboarding guide with Mermaid architecture diagrams.
+
+## Growth
+
+- [launch-post-writer](https://github.com/milad-ahmd/launch-post-writer) - X thread, Show HN, LinkedIn and Reddit launch posts from a repo.
+- [landing-page-roaster](https://github.com/milad-ahmd/landing-page-roaster) - Scored, honest roast of a landing page plus copy rewrites.
 
 ## Ideas wanted
 
 Skills nobody has built well yet. Build one and open a PR to add it:
 
-- `commit-craft` - split messy changes into atomic Conventional Commits
-- `test-gap-hunter` - find untested code and write tests in the project's framework
-- `dependency-doctor` - safe upgrade plans with breaking-change notes
 - `migration-wizard` - JS→TS, Jest→Vitest, Pages→App Router
-- `a11y-fixer` - WCAG audit plus fixes
-- `dockerize-anything` - production-ready Dockerfile and compose
-- `changelog-from-git` - release notes from a commit range
 - `sql-explainer-optimizer` - explain slow queries and suggest indexes
 
 ## Contributing
