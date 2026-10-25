@@ -21,6 +21,7 @@
 - [DevOps & backend](#devops--backend)
 - [Documentation](#documentation)
 - [Growth](#growth)
+- [Marketing & social media](#marketing--social-media)
 - [Ideas wanted](#ideas-wanted)
 - [Contributing](#contributing)
 
@@ -42,7 +43,7 @@ Step-by-step instructions, rules, and output format.
 
 ## Collections
 
-- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 17 practical skills with a one-line installer.
+- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 31 practical skills for developers and marketers with a one-line installer.
 
 ## Git & workflow
 
@@ -78,6 +79,23 @@ Step-by-step instructions, rules, and output format.
 
 - [launch-post-writer](https://github.com/milad-ahmd/launch-post-writer) - X thread, Show HN, LinkedIn and Reddit launch posts from a repo.
 - [landing-page-roaster](https://github.com/milad-ahmd/landing-page-roaster) - Scored, honest roast of a landing page plus copy rewrites.
+
+## Marketing & social media
+
+- [instagram-growth-manager](https://github.com/milad-ahmd/instagram-growth-manager) - Grow and manage Instagram with bio audits, Reels scripts, carousels, captions, hashtags and growth reviews.
+- [tiktok-viral-creator](https://github.com/milad-ahmd/tiktok-viral-creator) - TikTok ideas, 2-second hooks, shot-by-shot scripts and retention analysis.
+- [youtube-seo-optimizer](https://github.com/milad-ahmd/youtube-seo-optimizer) - YouTube titles, thumbnails, descriptions, chapters and channel audits for more views.
+- [youtube-script-writer](https://github.com/milad-ahmd/youtube-script-writer) - High-retention YouTube and Shorts scripts with hooks, open loops and B-roll cues.
+- [content-repurposer](https://github.com/milad-ahmd/content-repurposer) - One video or podcast into 15+ posts: Shorts, Reels, threads, LinkedIn, carousel, newsletter.
+- [social-media-calendar](https://github.com/milad-ahmd/social-media-calendar) - Monthly cross-platform content calendar, exported as CSV for Notion, Sheets, Buffer or Later.
+- [hook-generator](https://github.com/milad-ahmd/hook-generator) - Scroll-stopping hooks for videos, posts, emails and ads, scored and ranked.
+- [ad-copy-generator](https://github.com/milad-ahmd/ad-copy-generator) - Ad copy for Meta, TikTok, Google and YouTube within each platform's limits, plus an A/B test matrix.
+- [seo-blog-writer](https://github.com/milad-ahmd/seo-blog-writer) - SEO blog posts that rank: intent research, outline, meta tags, FAQ and schema.
+- [email-campaign-writer](https://github.com/milad-ahmd/email-campaign-writer) - Welcome, launch, cart and newsletter email sequences with subject-line tests.
+- [brand-voice-guide](https://github.com/milad-ahmd/brand-voice-guide) - A brand voice, positioning and personas guide, then rewrites copy on-brand.
+- [competitor-spy](https://github.com/milad-ahmd/competitor-spy) - Competitor analysis of pricing, messaging, socials, ads and reviews, with a SWOT and opportunities.
+- [influencer-outreach](https://github.com/milad-ahmd/influencer-outreach) - Influencer and UGC campaigns: vetting, outreach DMs, briefs and tracking.
+- [social-analytics-reporter](https://github.com/milad-ahmd/social-analytics-reporter) - Social media analytics exports into a clear report with KPIs, reasons and next actions.
 
 ## Ideas wanted
 
