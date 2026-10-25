@@ -21,6 +21,7 @@
 - [DevOps & backend](#devops--backend)
 - [Documentation](#documentation)
 - [Growth](#growth)
+- [Fun, agent superpowers & ops](#fun-agent-superpowers--ops)
 - [Social platform agents](#social-platform-agents)
 - [Marketing & social media](#marketing--social-media)
 - [Ideas wanted](#ideas-wanted)
@@ -44,7 +45,7 @@ Step-by-step instructions, rules, and output format.
 
 ## Collections
 
-- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 41 practical skills for developers and marketers with a one-line installer.
+- [milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills) - 51 practical skills for developers and marketers with a one-line installer.
 
 ## Git & workflow
 
@@ -80,6 +81,19 @@ Step-by-step instructions, rules, and output format.
 
 - [launch-post-writer](https://github.com/milad-ahmd/launch-post-writer) - X thread, Show HN, LinkedIn and Reddit launch posts from a repo.
 - [landing-page-roaster](https://github.com/milad-ahmd/landing-page-roaster) - Scored, honest roast of a landing page plus copy rewrites.
+
+## Fun, agent superpowers & ops
+
+- [roast-my-github](https://github.com/milad-ahmd/roast-my-github) - Get your GitHub profile roasted with real data, then a scorecard and glow-up plan.
+- [startup-idea-validator](https://github.com/milad-ahmd/startup-idea-validator) - Stress-test a startup idea with a VC, customer and competitor panel, cheap experiments and a verdict.
+- [codebase-time-machine](https://github.com/milad-ahmd/codebase-time-machine) - The story of your repo from git history, as a documentary: eras, cast, plot twists, cursed files.
+- [ai-slop-detector](https://github.com/milad-ahmd/ai-slop-detector) - Score text for AI-sounding writing and rewrite it to sound human, keeping the author's voice.
+- [agent-memory-keeper](https://github.com/milad-ahmd/agent-memory-keeper) - Persistent project memory (MEMORY.md) so your agent stops repeating the same mistakes.
+- [skill-creator-pro](https://github.com/milad-ahmd/skill-creator-pro) - Turn any workflow into a well-written SKILL.md, with a linter to validate it.
+- [cost-cutter](https://github.com/milad-ahmd/cost-cutter) - Cut cloud, SaaS and LLM API bills with dollar estimates, effort, risk and exact fixes.
+- [incident-commander](https://github.com/milad-ahmd/incident-commander) - Run a production outage from triage to mitigation, status updates and a blameless postmortem.
+- [app-store-optimizer](https://github.com/milad-ahmd/app-store-optimizer) - App Store and Google Play ASO: keywords, titles, screenshot captions, review replies, A/B tests.
+- [skills-doctor](https://github.com/milad-ahmd/skills-doctor) - Audit your installed skills for broken frontmatter, vague triggers, conflicts and leaked secrets.
 
 ## Social platform agents
 
