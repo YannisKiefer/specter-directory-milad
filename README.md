@@ -81,6 +81,7 @@ Step-by-step instructions, rules, and output format.
 
 - [launch-post-writer](https://github.com/milad-ahmd/launch-post-writer) - X thread, Show HN, LinkedIn and Reddit launch posts from a repo.
 - [landing-page-roaster](https://github.com/milad-ahmd/landing-page-roaster) - Scored, honest roast of a landing page plus copy rewrites.
+- [harvey-specter](https://github.com/YannisKiefer/harvey-specter) - Prepare negotiations and difficult conversations with verified leverage, clear boundaries and situation-aware drafts.
 
 ## Fun, agent superpowers & ops
 
